@@ -4,7 +4,6 @@
 - 🌎 &nbsp; Estudando e implementando novas tecnologias para criação de soluções de software eficientes.
 - 🌌 &nbsp; Aprendendo mais sobre Javascript
 
-<br/> 
 <h3> 🚀 &nbsp;Minhas Skills </h3>
 
 
