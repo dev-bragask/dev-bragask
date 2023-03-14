@@ -1,33 +1,43 @@
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-<h3> 🧑 &nbsp;Sobre mim </h3>
+# 🤔 About me:
+- 👨🏻‍💻 Front-end Developer.
+- 🎸 Amo tocar guitarra.
+- 🌌 Aprendendo mais sobre Javascript.
+- 🌎 Estudando e implementando novas tecnologias para criação de soluções de software eficientes.
 
-- 🌎 &nbsp; Estudando e implementando novas tecnologias para criação de soluções de software eficientes.
-- 🌌 &nbsp; Aprendendo mais sobre Javascript
+# 🚀 Minhas Skills
 
-<h3> 🚀 &nbsp;Minhas Skills </h3>
+<h3><strong>Technologies</strong></h3>
 
+ [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+ [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+ [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+ [![React.js](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 
-**Tecnologias**
+  <h3><strong>Style Frameworks</strong></h3>
+  
+ [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/install)
+ [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+<h3><strong>Ferramenta de Versionamento</strong></h3>
 
-**Ferramenta de Versionamento**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-    ![vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel&logoColor=ffff)
+ [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+ [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 
 
-<h3> 📨 &nbsp;Onde me encontrar: </h3> 
+<h3><strong>Ferramentas de Desenvolvimento</strong></h3>
 
-[![Linkedin: NicolasBraga](https://img.shields.io/badge/-Nicolas_Braga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devbraga/)](https://www.linkedin.com/in/devbraga/)
-[![Outlook: Nicolas Braga](https://img.shields.io/badge/-nbraga770@outlook-006bed?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:nbraga770@outlook.com)](mailto:nbraga770@outlook.com)
-[![GitHub Nicolas Braga]( https://img.shields.io/github/followers/dev-bragask?label=follow&style=social)](https://github.com/dev-bragask)
+[![Figma](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/ui-design-tool/)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/dashboard)
+[![Amazon_AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/pt/)
+
+<h3><strong>📨 Entre em contato:</strong></h3> 
+ <a href="mailto:https://www.instagram.com/braga.jsx/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
+<a href="https://www.linkedin.com/in/devbraga/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+<a href="https://www.instagram.com/braga.jsx/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+
+
+
+
