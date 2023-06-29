@@ -4,8 +4,7 @@
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="linkedin de Nicolas Braga"></a>
 
-I'm a JavaScript Front-End Developer (ReactJS, NextJs).
-
+I'm a JavaScript Front-End Developer (ReactJS, NextJs). <br/>
 Here on my GitHub profile you can see all my projects.
 
 - 🎸 In my spare time, I love to play the guitar.
