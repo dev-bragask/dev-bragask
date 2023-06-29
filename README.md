@@ -1,32 +1,15 @@
-# 🙋‍♂️ About me:
-- 👨🏻‍💻 Front-end Developer.
-- 🎸 Amo tocar violão.
-- ✨ Aprendendo mais sobre next.js.
-- 🌎 Estudando e implementando novas tecnologias para criação de soluções de software eficientes.
+### Hello, I'm Nícolas 👋
+<a href="https://www.linkedin.com/in/devbraga/" target="_blank">
+    <img style="margin-block:8px; width: 100px;"
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="linkedin de Nicolas Braga"></a>
 
-# 🎯 Minhas Skills
+I'm a JavaScript Front-End Developer (ReactJS, NextJs).
 
-<h3><strong>Technologies</strong></h3>
+Here on my GitHub profile you can see all my projects.
 
-[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![React.js](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+- 🎸 In my spare time, I love to play the guitar.
+- ⚡ Studying and implementing new technologies to create efficient software solutions.
+- 👨🏻‍💻 I have solid skills in HTML, CSS (Extensions/Frameworks), JavaScript, Next.js and Node.js.
 
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/install)
-[![Styled-Components](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
-
-<h3><strong>Tools</strong></h3>
-
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/ui-design-tool/)
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/dashboard)
-[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
-[![Amazon_AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/pt/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-
-<h3><strong>📨 Entre em contato:</strong></h3>
-<a href="https://www.linkedin.com/in/devbraga/" target="_blank"> <img
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” - Albert Einstein
